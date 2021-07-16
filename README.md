@@ -89,7 +89,7 @@
 <a href="https://www.figma.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 </a> 
-<a href="https://www.linux.org/" target="_blank"> 
+<a href="hhttps://www.apple.com/in/macos/big-sur/" target="_blank"> 
     <img src="https://logos-download.com/wp-content/uploads/2020/06/Apple_Mac_OS_Logo.png" width="40" height="40"/> 
 </a>
 <!-- <a href="https://www.gnu.org/software/bash/" target="_blank"> 
