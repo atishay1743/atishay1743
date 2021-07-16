@@ -13,7 +13,7 @@
 ---
 
 ### :mailbox: Reach me out!
-[![Linkedin Badge](https://img.shields.io/badge/-Atishay-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atishay1743) [![Mail Badge](https://img.shields.io/badge/-@atishay.17-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/atishay.17/) [![Mail Badge](https://img.shields.io/badge/-atishay1743-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:atishay1743@gmail.com). [![Twitter Badge](https://img.shields.io/badge/-@atishay1743-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/atishay1743)](https://twitter.com/atishay1743)
+[![Linkedin Badge](https://img.shields.io/badge/-Atishay-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atishay1743) [![Mail Badge](https://img.shields.io/badge/-@atishay.17-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/atishay.17/) [![Mail Badge](https://img.shields.io/badge/-atishay1743-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:atishay1743@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@atishay1743-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/atishay1743)](https://twitter.com/atishay1743)
 
 ---
 
