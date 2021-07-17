@@ -12,7 +12,7 @@
 - 🖥 I'm also Open Source head at Coding Club at Indian Institute of Technology, Guwahati.
 - 💻 Currently learning app development and a bit designing.
 - 🧑🏻‍💻 Amateur Web developer.
-- ⚡️ Fun fact:I like technology and gadgets especially smartphones and pcs.
+- ⚡️ Fun fact:I like technology and gadgets especially smartphones.
 ---
 
 
