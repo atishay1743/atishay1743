@@ -9,7 +9,10 @@
 ## About Myself
 
 - 👨‍🎓 I’m undergraduate pursuing B.Tech in Chemical  Engineering at Indian Institute of Technology, Guwahati.
-
+- 🖥I'm also Open Source head at Coding Club at Indian Institute of Technology, Guwahati.
+- 💻Currently learning app development and a bit design.
+- 🧑🏻‍💻Amateur Web developer.
+- ⚡️Fun fact: I like technology and gadgets specially smartphones and pc.
 ---
 
 
