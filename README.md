@@ -118,7 +118,7 @@
 
 ---
 
-### Github Stats
+### Detailed Stats
 
 <br>
 
