@@ -5,7 +5,7 @@
 ## I'm Atishay Jain
 ---
 #### Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{imakash3011}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{atishay1743}/count.svg)
 
 ---
 ## About Myself
