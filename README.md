@@ -1,9 +1,10 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
----
+
+<h3 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
 
-## I'm Atishay Jain
----
+
+<h3 align="center">I'm Atishay Jain</h3>
+
 
 
 
@@ -18,7 +19,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p>
 
 <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -115,14 +116,11 @@
 ---
 
 ### Detailed Stats
-<img align="right" src="https://emoji.gg/assets/emoji/2811_DanceAmongStick.gif" />
+<!-- <img align="right" src="https://emoji.gg/assets/emoji/2811_DanceAmongStick.gif" /> -->
 
-<br>
+
 
 [![Atishay's GitHub stats](https://github-readme-stats.vercel.app/api?username=atishay1743&hide=contribs&show_icons=true)](https://github.com/atishay1743)
-
-<br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atishay1743&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
@@ -132,9 +130,9 @@
 
 ---
 
-### :mailbox: Reach me out!
+### Reach me out!
 
-<p align="center">
+<p align="left">
 	<a href="https://github.com/atishay1743"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/atishay1743/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.facebook.com/atishay1743/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
