@@ -1,4 +1,4 @@
-### Hi there<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+### Hi there<<div class="tenor-gif-embed" data-postid="10897308" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/waving-wave-hand-emoji-gif-10897308">Waving Wave GIF</a> from <a href="https://tenor.com/search/waving-gifs">Waving GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>>
 
 ---
 
