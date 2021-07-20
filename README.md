@@ -141,7 +141,7 @@
 </p>
 
 ---
-# Below are repositories:
+# Below are my repositories:
 
 <div align="center">
 <img align="center" src="https://emoji.gg/assets/emoji/7524_this_animated_bottom.gif">
