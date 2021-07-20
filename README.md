@@ -1,4 +1,4 @@
-### Hi there<<div class="tenor-gif-embed" data-postid="10897308" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/waving-wave-hand-emoji-gif-10897308">Waving Wave GIF</a> from <a href="https://tenor.com/search/waving-gifs">Waving GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>>
+### Hi there<https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966>
 
 ---
 
@@ -128,11 +128,11 @@
 
 ### Github Stats
 
-
+<br>
 
 [![Atishay's GitHub stats](https://github-readme-stats.vercel.app/api?username=atishay1743&hide=contribs&show_icons=true)](https://github.com/atishay1743)
 
-
+</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atishay1743&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
