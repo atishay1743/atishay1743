@@ -122,7 +122,7 @@
 
 </div>
 <div align="right">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/atishay1743/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atishay1743&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
  </div>
 ---
 ### Profile views counter
