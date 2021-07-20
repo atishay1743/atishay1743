@@ -128,11 +128,11 @@
 
 ### Github Stats
 
-<br>
+
 
 [![Atishay's GitHub stats](https://github-readme-stats.vercel.app/api?username=atishay1743&hide=contribs&show_icons=true)](https://github.com/atishay1743)
 
-<br>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atishay1743&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -144,7 +144,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Atishay-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atishay1743) [![Mail Badge](https://img.shields.io/badge/-@atishay.17-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/atishay.17/) [![Mail Badge](https://img.shields.io/badge/-atishay1743-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:atishay1743@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@atishay1743-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/atishay1743)](https://twitter.com/atishay1743)
 
 ---
-# Below are repositories :point_down:
+# Below are repositories:
 
 <div align="center">
 <img align="center" src="https://emoji.gg/assets/emoji/7524_this_animated_bottom.gif">
