@@ -4,10 +4,9 @@
 
 ## I'm Atishay Jain
 ---
-#### Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{atishay1743}/count.svg)
 
----
+
+
 ## About Myself
 
 - 👨‍🎓 I’m undergraduate pursuing B.Tech in Chemical  Engineering at Indian Institute of Technology, Guwahati.
@@ -125,8 +124,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/atishay1743/github-readme-stats)
 
-
-
+---
+### Profile views counter
+![Visitor Count](https://profile-counter.glitch.me/{atishay1743}/count.svg)
 
 
 ---
