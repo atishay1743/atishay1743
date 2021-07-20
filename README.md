@@ -8,7 +8,7 @@
 
 
 ## About Myself
-<img align="right" src="https://emoji.gg/assets/emoji/2811_DanceAmongStick.gif" />
+
 - 👨‍🎓 I’m undergraduate pursuing B.Tech in Chemical  Engineering at Indian Institute of Technology, Guwahati.
 - 🖥 I'm also Open Source head at Coding Club at Indian Institute of Technology, Guwahati.
 - 💻 Currently learning app development and a bit designing.
@@ -115,15 +115,16 @@
 ---
 
 ### Detailed Stats
+<img align="right" src="https://emoji.gg/assets/emoji/2811_DanceAmongStick.gif" />
 
-<div align="left">
+<br>
 
 [![Atishay's GitHub stats](https://github-readme-stats.vercel.app/api?username=atishay1743&hide=contribs&show_icons=true)](https://github.com/atishay1743)
 
-</div>
-<div align="right">
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atishay1743&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
- </div>
+
 ---
 ### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{atishay1743}/count.svg)
