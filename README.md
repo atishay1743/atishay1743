@@ -4,11 +4,8 @@
 
 ## I'm Atishay Jain
 ---
-![Profile views](https://gpvc.arturio.dev/atishay1743)
-<a href="https://github.com/atishay1743/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/atishay1743/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/atishay1743/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/atishay1743/awesome-github-profile-readme?color=2b9348"></a>
-<!-- <a href="https://github.com/atishay1743/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/atishay1743/awesome-github-profile-readme" alt="Pull Requests Badge"/></a> -->
-<!-- <a href="https://github.com/atishay1743/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/atishay1743/awesome-github-profile-readme" alt="Issues Badge"/></a> -->
+#### Profile views counter
+![Visitor Count](https://profile-counter.glitch.me/{imakash3011}/count.svg)
 
 ---
 ## About Myself
@@ -135,7 +132,14 @@
 ---
 
 ### :mailbox: Reach me out!
-[![Linkedin Badge](https://img.shields.io/badge/-Atishay-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atishay1743) [![Mail Badge](https://img.shields.io/badge/-@atishay.17-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/atishay.17/) [![Mail Badge](https://img.shields.io/badge/-atishay1743-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:atishay1743@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@atishay1743-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/atishay1743)](https://twitter.com/atishay1743)
+
+<p align="center">
+	<a href="https://github.com/atishay1743"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/atishay1743/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.facebook.com/atishay1743/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
+	<a href="https://www.instagram.com/atishay.17/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	<a href="https://twitter.com/atishay1743"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
+</p>
 
 ---
 # Below are repositories:
