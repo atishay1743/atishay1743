@@ -15,7 +15,7 @@
   --------
 
 <p align="center">
-<img src="./techused.svg" width="auto" height="auto"/>
+<img src="./techuse.svg" width="auto" height="auto"/>
 </p>
 
 
