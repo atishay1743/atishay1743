@@ -15,7 +15,7 @@
   --------
 
 <p align="center">
-<img src="./techused.svg" alt="express" width="auto" height="auto"/>
+<img src="./techused.svg" width="auto" height="auto"/>
 </p>
 
 
@@ -144,11 +144,11 @@
 ### Reach me out!
 
 <p align="left">
-	<a href="https://github.com/atishay1743"><img src="./506.svg"/></a>
-	<a href="https://www.linkedin.com/in/atishay1743/"><img  src="./507.svg"/></a>
-	<a href="https://www.facebook.com/atishay1743/"><img  src="./505.svg"/></a>
-	<a href="https://www.instagram.com/atishay.17/"><img src="./504.svg"/></a>
-	<a href="https://twitter.com/atishay1743"><img src="./508.svg"/></a>
+	<a href="https://github.com/atishay1743"><img width="auto" height="auto" src="./506.svg"/></a>
+	<a href="https://www.linkedin.com/in/atishay1743/"><img width="auto" height="auto" src="./507.svg"/></a>
+	<a href="https://www.facebook.com/atishay1743/"><img width="auto" height="auto" src="./505.svg"/></a>
+	<a href="https://www.instagram.com/atishay.17/"><img width="auto" height="auto" src="./504.svg"/></a>
+	<a href="https://twitter.com/atishay1743"><img width="auto" height="auto" src="./508.svg"/></a>
 </p>
 
 ---
