@@ -6,10 +6,16 @@
 <!-- <h2 align="center">I'm Atishay Jain</h2>
  -->
 
-
+ ---
 
 <p align="center">
 <img src="./about.svg" alt="express" width="auto" height="auto"/>
+</p>
+ 
+  --------
+
+<p align="center">
+<img src="./techused.svg" alt="express" width="auto" height="auto"/>
 </p>
 
 
@@ -20,9 +26,9 @@
 - 💻 Currently learning app development and a bit designing.
 - 🧑🏻‍💻 Amateur Web developer.
 - ⚡️ Fun fact:I like technology and gadgets especially smartphones. -->
----
 
 
+<!-- 
 <h3 align="left">Languages and Tools:</h3>
 <p>
 
@@ -85,9 +91,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
 </a>  -->
  
-</p>
+<!-- </p> -->
 
-<p>
+<!-- <p>
 <a href="https://flutter.dev" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
 </a> 
@@ -96,8 +102,8 @@
 </a>
 </p>
 
-<p>
-<a href="https://www.figma.com/" target="_blank"> 
+<p> -->
+<!-- <a href="https://www.figma.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 </a> 
 <a href="https://www.apple.com/in/macos/big-sur/" target="_blank"> 
@@ -106,7 +112,7 @@
 <!-- <a href="https://www.gnu.org/software/bash/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
 </a> -->
-<a href="https://git-scm.com/" target="_blank"> 
+<!-- <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> 
 
@@ -114,7 +120,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 </a> 
 </p>
-
+ -->
 
 
 
