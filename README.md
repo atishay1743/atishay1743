@@ -144,11 +144,11 @@
 ### Reach me out!
 
 <p align="left">
-	<a href="https://github.com/atishay1743"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/atishay1743/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://www.facebook.com/atishay1743/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-	<a href="https://www.instagram.com/atishay.17/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-	<a href="https://twitter.com/atishay1743"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
+	<a href="https://github.com/atishay1743"><img width=20% src="./506.svg"/></a>
+	<a href="https://www.linkedin.com/in/atishay1743/"><img width=20% src="./507.svg"/></a>
+	<a href="https://www.facebook.com/atishay1743/"><img width=20% src="./505.svg"/></a>
+	<a href="https://www.instagram.com/atishay.17/"><img width=20% src="./504.svg"/></a>
+	<a href="https://twitter.com/atishay1743"><img width=20% src="./508.svg"/></a>
 </p>
 
 ---
