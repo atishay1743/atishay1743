@@ -144,11 +144,14 @@
 ### Reach me out!
 
 <p align="left">
-	<a href="https://github.com/atishay1743"><img width="auto" height="auto" src="./506.svg"/></a>
-	<a href="https://www.linkedin.com/in/atishay1743/"><img width="auto" height="auto" src="./507.svg"/></a>
-	<a href="https://www.facebook.com/atishay1743/"><img width="auto" height="auto" src="./505.svg"/></a>
-	<a href="https://www.instagram.com/atishay.17/"><img width="auto" height="auto" src="./504.svg"/></a>
-	<a href="https://twitter.com/atishay1743"><img width="auto" height="auto" src="./508.svg"/></a>
+	<a href="https://www.behance.net/atishayjain16"><img width="auto" height="auto" src="./bahance.svg"/></a>
+	<a href="https://github.com/atishay1743"><img width="auto" height="auto" src="./github.svg"/></a>
+	<a href="https://www.linkedin.com/in/atishay1743/"><img width="auto" height="auto" src="./linkedin.svg"/></a>
+	<a href="https://www.facebook.com/atishay1743/"><img width="auto" height="auto" src="./facebook.svg"/></a>
+	<a href="https://www.instagram.com/atishay.17/"><img width="auto" height="auto" src="./insta.svg"/></a>
+	<a href="https://twitter.com/atishay1743"><img width="auto" height="auto" src="./twitter.svg"/></a>
+	
+
 </p>
 
 ---
