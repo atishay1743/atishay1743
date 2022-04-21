@@ -1,7 +1,7 @@
 
 <!-- <h2 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2> -->
 <p align="center">
-<img src="./501.svg" alt="express" width="auto" height="auto"/>
+<img src="./hi.svg" alt="express" width="auto" height="auto"/>
 </p>
 <!-- <h2 align="center">I'm Atishay Jain</h2>
  -->
