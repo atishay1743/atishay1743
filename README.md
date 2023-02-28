@@ -6,17 +6,7 @@
 <!-- <h2 align="center">I'm Atishay Jain</h2>
  -->
 
- ---
 
-<p align="center">
-<img src="./aboutmenew.svg" alt="express" width="auto" height="auto"/>
-</p>
- 
-  --------
-
-<p align="center">
-<img src="./tsnew.svg" width="auto" height="auto"/>
-</p>
 
 
 <!-- ## About Myself
